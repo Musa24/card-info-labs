@@ -1,0 +1,14 @@
+{
+  "name": "lab_three",
+  "version": "1.0.0",
+  "description": "Hosting the personal card with nodeJs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Musa24",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
